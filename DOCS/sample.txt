@@ -1,0 +1,140 @@
+DRAFT COPY                                                                              	   DRAFT COPY
+Agreement for the Optical Character Recognition Conversion of ____ digital objects
+
+This shall serve as notice of an agreement between _________ (herein referred to as the “Vendor”), and 
+
+_______ (herein referred to as the “University”), on behalf of the __________ (herein referred to as the “Library”).
+
+Therefore, in consideration of the mutual promises set forth hereinafter, the Vendor and the Library mutually agree as follows:
+	
+Article 1. Scope of the Agreement
+1.1	The Vendor and the Library mutually establish as their objective the conversion via Optical Character Recognition (OCR) of selected journals from ____’s collections.  The Vendor will process an estimated 40,000 images between June 2007 and November 2007 and provide the digital derivatives to the library. 
+ 
+
+Article 2. Duration of the Agreement
+2.1 The Vendor and the Library agree that the Duration of the Agreement between the 
+Library and Vendor for the OCR conversion for the project journals will be in force between June 2007- June 2008.
+
+Article 3. Cost
+3.1	The Vendor and the Library mutually agree that all work described in sections 4 and 5, “Project Deliverables” and “Quality Control and Inspection” to be performed and delivered by the Vendor shall be billed to the Library at costs detailed in Section 5. 
+
+3.2 The Vendor and the Library also mutually agree that any extension of the project beyond June 2008 may require re-negotiation of the cost
+
+Article 4.  Material Preparation and Shipping
+4.1 The Vendor and the Library agree that the Library will prepare and ship issues of the selected journals to the Vendor so that they are “camera ready.”  Preparation by the Library will include:
+Removal of pencil or other marks that obscure the clarity of text (if possible)
+Secure packing of the issues for shipping
+Shipping of all issues to the Vendor by a traceable shipping service
+Email notification to the Vendor that the shipment has been sent, including specific content (packing slip) information about the issues in that shipment
+
+Article 5.  Project Deliverables
+5.1	The Vendor and the Library mutually agree that all work and products described herein are the responsibility of the Vendor to deliver to the Library during the Duration of the Agreement.
+
+5.2	The Vendor will create for each page of the Journals 
+2 files: flat text file with searchable UTF8 Unicode AND Sakhr .art format, OR  
+At the point in time when Sakhr Inc. delivers an upgraded version of their OCR software, an additional file format will be delivered to the Library as follows: 2 files: PDF+text  AND flat text file with searchable UTF8 Unicode
+
+5.3 Charges:  (fill in per RFP)
+ 
+
+		Organization and Metadata
+
+	5.4 The Vendor will also deliver all content by allowing the library to FTP to a server at the Vendor and retrieve the scans.  All of the volumes and issues of the journals scanned and delivered to the Library should be organized in separate subdirectories under a main directory of the journal.   We will provide the abbreviations for the journal.
+Example:
+
+SUMER (journal title)
+	\sumer_2_1_ar
+		\PTIFF
+sumer_2_1_ar_0001.tif
+			sumer_2_1_ar_0002.tif
+		\OUTPUT
+			sumer_2_1_ar_0001.txt
+			sumer_2_1_ar_0002.txt
+sumer_2_1_ar_0001.pdf
+			sumer_2_1_ar_0002.pdf
+
+ANOTHER example
+ \sumer_3_1_ar
+		\PTIFF
+sumer_3_1_ar_0001.tif
+			sumer_3_1_ar_0002.tif
+		\OUTPUT
+			sumer_3_1_ar_0001.txt
+			sumer_3_1_ar_0002.txt
+sumer_3_1_ar_0001.art
+			sumer_3_1_ar_0002.art
+
+
+Article 6. Quality Control and Inspection
+6.1	The Vendor and the Library mutually agree that the Vendor will employ the following quality control (QC) inspection routines and guarantee to honor the following standards for all work performed.
+A visual QC to ensure that all .txt files are properly encoded as Unicode UTF8 and display Arabic characters.
+A random sampling of 10% of the total batch of files shall be reviewed for OCR accuracy.  Arabic OCR output accuracy levels are expected to exceed 90% on modern texts.  
+At the point in time when Sakhr Inc. delivers an upgraded version of their OCR software that produces a PDF+TEXT output format, a random QC on PDF+TEXT files to assure searchability.  
+
+6.2	The Vendor and the Library mutually agree that the Library will perform a secondary quality control check on a statistical sample of all finished work produced by the Vendor in accordance with American National Standards Institute ANSI/ASQ Z1.4-2003.  A random sample equal to 10% of the total batch of files shall serve as the inspection sample for each file type.  
+
+Article 7. Resolution of Error
+7.1	The Vendor and the Library agree that a batch file consisting of the file content delivered to the Library by the Vendor will be rejected in its entirety if, in a given random inspection sample, more than one file per 200 sample files is found to be missing, duplicated, unreadable, or is otherwise determined to be defective.  
+
+7.3 The Vendor and the Library agree that any and all corrections to errors in work performed by the Vendor during the Duration of the Agreement shall be resolved to the satisfaction of the Library without additional cost. 
+
+7.4 Payment to the Vendor will be withheld until all corrections to errors in work performed by the Vendor are complete.
+
+Article 8. Shipment of Journal Issues
+8.1	The Vendor and the Library agree that the Library will pay for the outgoing and return shipping costs of each batch of the journals sent for OCR processing.  
+
+8.2	The Vendor and the Library agree that the shipping costs for batches of the journals returned to the Vendor for correction are the responsibility of the Vendor and not the Library. 
+
+8.3 The Vendor and the Library acknowledge that it is the responsibility of the Vendor to ensure that issues of the  journals are safely packed for return shipment to the Library.  
+
+8.4 The Vendor and Library acknowledge that insurance will be purchased when shipping to Vendor and returning to library at the rate of $100 per volume unless the library indicates otherwise on the packing slip.  The Vendor will use a trackable shipping service.  
+
+Article 9. Schedule and Workflow
+9.1 Starting in June 2007, the Library will send approximately 8,000 pages to the Vendor each month (equaling approximately 30 journal volumes).  The Vendor will send the OCR output files and the originals back within 30 days, at which point the Library will send the shipment.  We will send 6 shipments of approximately 8,000 pages on a monthly basis between June and November 2007.
+
+9.2 The Library will be billed monthly for each batch of images.  
+
+Article 10. Liability
+The Vendor acknowledges liability for damage and loss up to the full replacement value of all property belonging to the Library while that property is housed or stored within the Vendor’s premises or that of its affiliated partners
+.
+Article 11. Subcontracting
+The Vendor agrees that all work to be performed as described in articles 4 and 5 are the responsibility of the contracted Vendor.  No subcontracting of work as described in Articles 4 and 5 is permitted without the notification and approval of the Library.
+
+Article 12. Rights Over Products
+All copies of the journals whether original issues or copies produced in analog or digital format are the sole property of the Library.  The Vendor may not retain or reuse any products produced during this project.
+
+Article 13. Communication
+The Vendor and the Library agree to communicate at all times when possible by email.  Email communication will be responded to within 48 hours of receipt.  The receiving party will summarize communication between the Vendor and the Library by telephone in an email message within 48 hours of receipt.
+  
+Article 14. Non-Compliance and Default
+The Library will notify the Vendor in writing concerning non-compliance with any of the articles and provisions outlined in this agreement.  The failure of the Vendor to correct the specified errors or come to an amicable solution with the Library within thirty days of notification will constitute default.
+
+Article 15. Force Majeure
+The Vendor and the Library mutually agree to the performance of all obligations and articles stipulated in this agreement accept in those instances where said obligations are impossible to perform due to natural disasters, acts of war, civil unrest, or bans on the import or export of any material goods or property governed by this agreement.  The party whose performance of its obligations hereunder has become impossible due to such circumstances must immediately notify the other party of the onset and abatement of such circumstances.
+
+
+Article 16. Entirety
+This agreement embodies the complete agreement between the Vendor and the Library with respect to all articles and obligations stipulated and described herein.  No contemporaneous agreements, negotiations, promises, or warranties shall be valid without a renegotiation of this agreement by all contractual parties or their successors.  
+
+Article 17. Governing Law
+This Agreement shall be construed to be in accordance with and governed by the laws of the State of Connecticut, the State of New York, and the United States of America. 
+
+Article 18. Contractual Representatives and Successors
+Therefore, in consideration of the mutual agreements and acknowledgements of the articles and stipulations set herein, this agreement shall be binding upon the Vendor and the Library, their parties, representatives, and successors.
+
+Article 19. Promotional Considerations
+The University’s name as a premium customer of the Vendor may not be used in flyers, brochures, press releases, websites or other promotional materials unless the University gives written consent.  
+
+Article 20. Equal Opportunity Employment
+Since the work described here on selected journals from the Library’s collections is federally funded, the following provision as quoted from the Department of Education is in effect for the length of this contract: 
+ “Equal Employment Opportunity--All contracts must contain a provision requiring compliance with E.O. 11246—Equal Employment Opportunity, as amended by E.O. 11375--Amending Executive Order 11246 Relating to Equal Employment Opportunity, and as supplemented by regulations at 41 CFR Part 60--Office of Federal Contract Compliance Programs, Equal Employment Opportunity, Department of Labor.”
+
+ 
+IN WITNESS WHEREOF, The Vendor and the Library have caused this Agreement to be executed this  _________ day of ______________________, in the year ____ in three (3) original copies. 
+For the Library:                            	For the Vendor: 
+
+
+Date: ____________ 	Date: _____________
+
+
+
